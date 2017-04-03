@@ -1,4 +1,4 @@
-# Aulas de Programação de Sites do ALES
+# Aulas de Programação (de Sites) do ALES
 
 Olá, alunos e alunas!
 
@@ -62,6 +62,6 @@ Alguns lugares bacanas pra você começar a pesquisar são:
 - [Tutorial oficial de Python em Inglês](https://docs.python.org/3/tutorial/index.html)
 - [Documentação oficial de Python em Inglês](https://docs.python.org/3/)
 
-*Sempre que tiver dúvidas* não esqueça que o [Google](google.com) é o seu melhor amigo!
+*Sempre que tiver dúvidas* não esqueça que o [Google](http://google.com) é o seu melhor amigo!
 
 Se você está tendo problemas com algo, provavelmente alguma outra pessoa já teve esse mesmo problema e ele já foi respondido na internet.
